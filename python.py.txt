@@ -1,1 +1,1 @@
-print("HELLO BRO..!!")
+system.out.println("haha")
